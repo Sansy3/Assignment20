@@ -10,3 +10,6 @@
 7. Movie collection View ხაზი 52 არასწორი სახელით ხდება სელის რეგისტრაცია: "MovieCollectionViewCll"
 8. NowinTheares 53 ხაზზე ჩავამატე heightforRowAt ფუნცქია
 9. FeaturedCell 29 ხაზზე დაყოვნება +2 მოვაშორე (არვიცი სწორია თუ არა მაგრამ შემდეგ გამოიტანა რეიტინგიც და ჟანრებიც)
+10.+2 დაყოვნების გარეშე თუ ფერებს გავუწერ ლეიბლებს მაშინაც გამოაქ რეიტინგი და ჟანრები სწორად makeNew ფუნქციაში
+   genresLabel.textColor = .white
+   movieScore.textColor = .white
